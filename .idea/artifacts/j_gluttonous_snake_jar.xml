@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="j_gluttonous_snake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/j_gluttonous_snake_jar</output-path>
+    <root id="archive" name="j_gluttonous_snake.jar">
+      <element id="module-output" name="j_gluttonous_snake" />
+    </root>
+  </artifact>
+</component>
